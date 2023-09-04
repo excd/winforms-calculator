@@ -8,11 +8,11 @@ A simple .NET calculator application made using C# and WinForms.
 
 - Basic arithmetic operations on two numbers
 - Clear, clear entry, and backspace
-- Negative values and decimals
+- Negative values and decimal points
 
 Copy and paste available with keyboard shortcuts or menu options.
 
-Numbers consiting of more than 18 total characters are rounded (NOTE: *characters* not *digits*).
+Numbers consisting of more than 18 total characters are rounded (NOTE: _characters_ not _digits_).
 
-*Please note that this is not intended for any serious use.
-It is a simple project made for learning purposes and has not been thoroughly tested.*
+_Please note that this is not intended for any serious use.
+It is a simple project made for learning purposes and has not been thoroughly tested._
